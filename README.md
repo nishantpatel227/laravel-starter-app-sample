@@ -1,4 +1,4 @@
-Starter file for **Laravel and Vue.js - Fullstack Web Development (2020)** course on Udemy: https://www.udemy.com/course/laravel-vuejs-fullstack-web-development
+Nishant First Larvel Project 
 
 ## Installation
 

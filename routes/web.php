@@ -1,6 +1,10 @@
 <?php
 
+use App\Product;
+use App\Category;
 use Illuminate\Support\Facades\Route;
+use App\Http\Resources\ProductResource;
+use App\Http\Resources\CategoryResource;
 
 /*
 |--------------------------------------------------------------------------
